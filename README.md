@@ -21,7 +21,7 @@ cd faster-rcnn.pytorch && mkdir data
 ### prerequisites
 
 * Python 3.6
-* Pytorch 1.0 (**now it does not support 0.4.1 or higher**)
+* Pytorch 1.0
 * CUDA 8.0 or higher
 
 ### Data Preparation
