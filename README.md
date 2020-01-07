@@ -36,7 +36,7 @@ Before training, the cuda libs are required to compiled by:
 ```
 cd libs
 
-./make.sh
+sh make.sh
 
 ```
 
