@@ -34,7 +34,7 @@ cd faster-rcnn.pytorch && mkdir data
 Before training, the cuda libs are required to compiled by:
 
 ```
-nmnm cd libs
+cd libs
 
 ./make.sh
 
