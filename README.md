@@ -34,13 +34,13 @@ cd faster-rcnn.pytorch && mkdir data
 Before training, the cuda libs are required to compiled by:
 
 ```
-cd libs
+cd lib
 
 sh make.sh
 
 ```
 
-From now, we have provided train&test code for SANM. Just run:
+We have provided train&test code for SANM. Just run:
 
 ```
 sh train_test.sh

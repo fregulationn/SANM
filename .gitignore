@@ -209,5 +209,5 @@ output
 images
 data
 logs
-train_test.sh
+# train_test.sh
 demo.sh
