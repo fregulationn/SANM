@@ -46,7 +46,7 @@ We have provided train&test code for SANM. Just run:
 sh train_test.sh
 ```
 
-Download trained model from [Google dirve](https://drive.google.com/open?id=1z0UemgZo1-8ZzAu_vRC0_tQ2Cj8Q-nGR). If you want to test directly, make a dir name `models` and put the `res50` into the `models`, run the test scripts in `train_test.sh`.  
+Download trained model from [Google dirve](https://drive.google.com/open?id=1z0UemgZo1-8ZzAu_vRC0_tQ2Cj8Q-nGR). If you want to test directly, make a dir name `models` and put the `res50` into the `models`, run the test script in `train_test.sh`.  
 
 
 ## Citation
